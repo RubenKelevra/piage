@@ -1,0 +1,10 @@
+build
+build.cfg
+.pydevproject
+.project
+.idea
+*.pyc
+*.pyd
+*.dll
+*.so
+locale
